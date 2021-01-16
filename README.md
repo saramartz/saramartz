@@ -1,4 +1,4 @@
-## ![Sara M.V. - Full Stack Web Developer](https://res.cloudinary.com/dmsx3xete/image/upload/v1610800299/creative-app/GitHub_1_aa7exz.png)
+## ![Sara M.V. - Full Stack Web Developer](https://res.cloudinary.com/dmsx3xete/image/upload/v1610802375/creative-app/GitHub2_gvw4np.png)
 
 <div align='center'>
 
