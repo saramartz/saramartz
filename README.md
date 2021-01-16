@@ -52,6 +52,6 @@ I'm a creative front end developer with a fashion designer background who is pas
 </div>
 
 <div align='center'>
-<strong><em> I love connecting with people so if you want to say hi, I'll be happy to meet your more ! :dizzy: </em></strong>
+<strong><em> I love connecting with people so if you want to say hi, I'll be happy to meet you ! :dizzy: </em></strong>
 </div>
 
