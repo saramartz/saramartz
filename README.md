@@ -43,6 +43,8 @@ I'm a creative front end developer with a fashion designer background who is pas
 - 👯 I’m looking to collaborate with other content creators 
 - :heavy_check_mark: 2020 Goal: Contribute more to Open Source projects 
 
+##
+
 <div align="center">
   
   ![Networking](https://github.com/saramartz/saramartz/blob/main/world2.gif)
