@@ -1,4 +1,4 @@
-![Sara M.V. - Full Stack Web Developer](https://res.cloudinary.com/dmsx3xete/image/upload/v1610797093/creative-app/GitHub_p3wcja.png)
+![Sara M.V. - Full Stack Web Developer](https://res.cloudinary.com/dmsx3xete/image/upload/v1610800180/creative-app/GitHub_1_juszut.png)
 
 I'm a creative front end developer with a fashion designer background who is passionate about building websites from the ground up; from concept, navigation, layout and programming to UX and SEO. Some technologies I enjoy working with include ReactJS, JavaScript, and Bootstrap. My interest in the tech ecosystem leads me to learn new things everyday with a focus on mastering the MERN stack.
 
