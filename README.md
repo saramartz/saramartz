@@ -27,7 +27,7 @@ I'm a creative front end developer with a fashion designer background who is pas
 <img src="https://simpleicons.org/icons/postman.svg" alt="postman" height="40px" title="Postman" />
 </div>
 
----
+##
 
 <div align='center' style="margin: 40px 0px">
 <a href="https://github.com/saramartz/github-readme-stats">
