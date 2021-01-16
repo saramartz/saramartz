@@ -1,5 +1,3 @@
-<h2 align="center">Hello there! I'm Sara Martínez Vega </h2>
-
 ## ![Sara M.V. - Full Stack Web Developer](https://res.cloudinary.com/dmsx3xete/image/upload/v1610800299/creative-app/GitHub_1_aa7exz.png)
 
 <div align='center'>
@@ -29,6 +27,7 @@ I'm a creative front end developer with a fashion designer background who is pas
 <img src="https://simpleicons.org/icons/postman.svg" alt="postman" height="40px" title="Postman" />
 </div>
 
+---
 
 <div align='center' style="margin: 40px 0px">
 <a href="https://github.com/saramartz/github-readme-stats">
