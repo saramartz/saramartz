@@ -38,9 +38,9 @@ I'm a creative front end developer with a fashion designer background who is pas
 
 ## Little more about me ♍ 
 
-- 🔭 I’m currently working on my professional profile and portfolio 
-- 💻 I’m currently learning React Native and improving my knowledge 
-- 👯 I’m looking to collaborate with other content creators 
+- 🔭  I’m currently working on my professional profile and portfolio 
+- 💻  I’m currently learning React Native and improving my knowledge 
+- 👯  I’m looking to collaborate with other content creators 
 - :heavy_check_mark: 2020 Goal: Contribute more to Open Source projects 
 
 ##
