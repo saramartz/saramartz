@@ -8,7 +8,7 @@
 
 I'm a creative front end developer with a fashion designer background who is passionate about building websites from the ground up; from concept, navigation, layout and programming to UX and SEO. Some technologies I enjoy working with include ReactJS, JavaScript, and Bootstrap. My interest in the tech ecosystem leads me to learn new things everyday with a focus on mastering the MERN stack.
 
-## Languages and Tools
+## Languages and Tools 💻 
 
 <div align='center' style="margin: 40px 0px">
 <img src="https://simpleicons.org/icons/mongodb.svg" alt="mongodb" height="40px" title="MongoDB" />
@@ -36,7 +36,7 @@ I'm a creative front end developer with a fashion designer background who is pas
 </a>
 </div>
 
-## Little more about me
+## Little more about me ♍ 
 
 - 🔭 I’m currently working on my professional profile and portfolio 
 - 💻 I’m currently learning React Native and improving my knowledge 
