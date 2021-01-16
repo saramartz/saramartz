@@ -1,4 +1,12 @@
-![Sara M.V. - Full Stack Web Developer](https://res.cloudinary.com/dmsx3xete/image/upload/v1610800299/creative-app/GitHub_1_aa7exz.png)
+<h2 align="center">Hello there! I'm Sara Martínez Vega 👋🤓</h2>
+
+## ![Sara M.V. - Full Stack Web Developer](https://res.cloudinary.com/dmsx3xete/image/upload/v1610800299/creative-app/GitHub_1_aa7exz.png)
+
+<div align='center'>
+
+[<img style="margin-right: 40px;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saramartz)  [<img style="margin-right: 40px;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sara-martínez-vega/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/sara-martinez)  
+
+</div>
 
 I'm a creative front end developer with a fashion designer background who is passionate about building websites from the ground up; from concept, navigation, layout and programming to UX and SEO. Some technologies I enjoy working with include ReactJS, JavaScript, and Bootstrap. My interest in the tech ecosystem leads me to learn new things everyday with a focus on mastering the MERN stack.
 
@@ -40,8 +48,4 @@ I'm a creative front end developer with a fashion designer background who is pas
 
 ---
 
-<div align='center'>
 
-[<img style="margin-right: 40px;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saramartz)  [<img style="margin-right: 40px;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sara-martínez-vega/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/sara-martinez)  
-
-</div>
