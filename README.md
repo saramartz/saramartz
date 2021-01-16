@@ -4,7 +4,7 @@ I'm a creative front end developer with a fashion designer background who is pas
 
 ## Languages and Tools
 
-<div align='center' style="margin: 40px 0px;">
+<div align='center' style="margin: 40px 0px">
 <img src="https://simpleicons.org/icons/mongodb.svg" alt="mongodb" height="40px" title="MongoDB" />
 <img src="https://simpleicons.org/icons/express.svg" alt="expressJS" height="40px" title="ExpressJS" />
 <img src="https://simpleicons.org/icons/react.svg" alt="React" height="40px" title="ReactJS" />
@@ -20,6 +20,8 @@ I'm a creative front end developer with a fashion designer background who is pas
 <img src="https://simpleicons.org/icons/jasmine.svg" alt="jasmine" height="40px" title="Jasmine" />
 <img src="https://simpleicons.org/icons/postman.svg" alt="postman" height="40px" title="Postman" />
 </div>
+
+---
 
 <div align='center' style="margin: 40px 0px">
 <a href="https://github.com/saramartz/github-readme-stats">
