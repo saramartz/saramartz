@@ -6,7 +6,7 @@
 
 </div>
 
-I'm a creative front end developer with a fashion designer background who is passionate about building websites from the ground up; from concept, navigation, layout and programming to UX and SEO. Some technologies I enjoy working with include ReactJS, JavaScript, and Bootstrap. My interest in the tech ecosystem leads me to learn new things everyday with a focus on mastering the MERN stack.
+I'm a creative front end developer with a fashion designer background who is passionate about building websites from scratch; from concept, navigation, layout and programming to UX and SEO. Some technologies I enjoy working with include ReactJS, JavaScript, and Bootstrap. My interest in the tech ecosystem leads me to learn new things everyday focusing on mastering the MERN stack.
 
 ## Languages and Tools ⚙ 
 
@@ -40,7 +40,7 @@ I'm a creative front end developer with a fashion designer background who is pas
 
 - 🔭  I’m currently working on my professional profile and portfolio 
 - 💻  I’m currently learning React Native and improving my knowledge 
-- 👯  I’m looking to collaborate with other content creators 
+- 👯  I’m looking forward to collaborate with other content creators 
 - :heavy_check_mark: 2021 Goal: Contribute more to Open Source projects 
 
 ##
