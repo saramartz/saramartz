@@ -1,4 +1,4 @@
-## ![Sara M.V. - Full Stack Web Developer](https://res.cloudinary.com/dmsx3xete/image/upload/v1610802375/creative-app/GitHub2_gvw4np.png)
+## ![Sara M.V. - Web designer & developer](https://res.cloudinary.com/production-sara/image/upload/v1686483044/beyond-design/GitHub2_gvw4np.png)
 
 <div align='center'>
 
@@ -6,7 +6,7 @@
 
 </div>
 
-I'm a creative front end developer with a fashion designer background who is passionate about building websites from scratch; from concept, navigation, layout and programming to UX and SEO. Some technologies I enjoy working with include ReactJS, JavaScript, and Bootstrap. My interest in the tech ecosystem leads me to learn new things everyday focusing on mastering the MERN stack.
+I'm a creative UI designer and Front End developer with a fashion background who is passionate about building websites from scratch; from concept, layout and navigation to programming and SEO. Fueled by curiosity and innovation, I develop interfaces that go beyond the conventional idea of the web as I believe it can be more diverse and inspiring. Some technologies I enjoy working with include React, JavaScript, CSS and Framer Motion. 
 
 ## Languages and Tools ⚙ 
 
@@ -14,7 +14,6 @@ I'm a creative front end developer with a fashion designer background who is pas
 <img src="https://simpleicons.org/icons/mongodb.svg" alt="mongodb" height="40px" title="MongoDB" />
 <img src="https://simpleicons.org/icons/express.svg" alt="expressJS" height="40px" title="ExpressJS" />
 <img src="https://simpleicons.org/icons/react.svg" alt="React" height="40px" title="ReactJS" />
-<img src="https://simpleicons.org/icons/node-dot-js.svg" alt="node-dot-js" height="40px" title="NodeJS" />
 <img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" height="40px" title="JavaScript" />
 <img src="https://simpleicons.org/icons/html5.svg" alt="html5" height="40px" title="HTML 5" />
 <img src="https://simpleicons.org/icons/css3.svg" alt="css3" height="40px" title="CSS 3" />
@@ -38,10 +37,8 @@ I'm a creative front end developer with a fashion designer background who is pas
 
 ## Little more about me ♍ 
 
-- 🔭  I’m currently working on my professional profile and portfolio 
-- 💻  I’m currently learning React Native and improving my knowledge 
-- 👯  I’m looking forward to collaborate with other content creators 
-- :heavy_check_mark: 2021 Goal: Contribute more to Open Source projects 
+- 👯  I’m looking forward to collaborate with other content creators and make beautiful connections
+- :heavy_check_mark: 2024 Goal: Take part of meaningful and exciting projects working within a team with similar interests
 
 ##
 
