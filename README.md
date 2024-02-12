@@ -37,7 +37,7 @@ I'm a creative UI designer and Front End developer with a fashion background who
 
 ## Little more about me ♍ 
 
-- 👯  I’m looking forward to collaborate with other content creators and make beautiful connections
+- 👯  I’m looking forward to collaborate with other creators and make beautiful connections
 - :heavy_check_mark: 2024 Goal: Take part of meaningful and exciting projects working within a team with similar interests
 
 ##
